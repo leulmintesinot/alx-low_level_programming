@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E "$1" -o "$2" && echo "Preprocessor output saved to '$2'." || echo "Error occurred during preprocessing."
+gcc -E $CFILE -o c

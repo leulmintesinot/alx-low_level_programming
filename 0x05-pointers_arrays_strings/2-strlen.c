@@ -12,6 +12,6 @@ int _strlen(const char *str)
 
 	while (*str++)
 		length++;
-	return(length);
+	return (length);
 
 }

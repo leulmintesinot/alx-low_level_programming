@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _print_rev_reverse - string in reverse
+ * _print_rev_recursion - string in reverse
  * @s: the string in reverse
  * Return: Nothing
  */
